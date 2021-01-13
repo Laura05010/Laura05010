@@ -2,8 +2,8 @@
 
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on:  My personal website, the UTM Robotics Website, and a really fun side project!!!!
-- 🌱 I’m currently learning: Python (image recognizers, web scrappers), Java, HTML, CSS , Javascript
+- 🔭 I’m currently working on:  My personal website, and a really fun side project!!!!
+- 🌱 I’m currently learning: Java
 - 💬 I’m looking to collaborate on any fun projects!!
 
 
