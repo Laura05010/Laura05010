@@ -29,5 +29,5 @@
 
 <br />
 
-[website]: www.lauramadrid.ca
+[website]: https://www.lauramadrid.ca/
 [linkedin]: https://www.linkedin.com/in/laura-maldonado-madrid-2b6344190/
