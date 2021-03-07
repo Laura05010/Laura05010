@@ -2,9 +2,10 @@
 
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on:  My personal website, and a really fun side project!!!!
+- 🔭 I’m currently working on:  My personal website, and getting back into my passion project!
 - 🌱 I’m currently learning: Java
-- 💬 I’m looking to collaborate on any fun projects!!
+- 💡 I’m looking to collaborate on any fun projects!!
+- 💬 I speak Spanish, French and Italian 
 
 
 ## Connect with me:
@@ -30,4 +31,4 @@
 <br />
 
 [website]: https://www.lauramadrid.ca/
-[linkedin]: https://www.linkedin.com/in/laura-maldonado-madrid-2b6344190/
+[linkedin]: https://www.linkedin.com/in/laurammadrid/
