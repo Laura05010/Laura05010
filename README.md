@@ -1,4 +1,6 @@
-![alt text](GitHubBanner.png)
+![my github banner](GitHubBanner.png)
+<br />
+
 ## A bit about me:
 - 😆 Pronouns: She/Her
 - 👩🏻‍💻 Major: Computer Science
@@ -7,7 +9,7 @@
 - 🌱 I’m currently relearning: Swift
 - 💡 I’m looking to collaborate on any fun projects!!
 - 💬 I speak Spanish, French and Italian
-
+<br />
 ## Contact me at:
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
