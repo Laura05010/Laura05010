@@ -11,6 +11,7 @@
 ## Connect with me:
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][mail]
 
 <br />
 
@@ -32,3 +33,4 @@
 
 [website]: https://www.lauramadrid.ca/
 [linkedin]: https://www.linkedin.com/in/laurammadrid/
+[mail]: mailto:laura.maldonado@mail.utoronto.ca
