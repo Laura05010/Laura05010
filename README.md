@@ -1,9 +1,4 @@
 ![my github banner](GitHubBanner.png)
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][mail] 
-<br />
-
 ## A bit about me:
 - 😆 Pronouns: She/Her
 - 👩🏻‍💻 Major: Computer Science
@@ -15,6 +10,13 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/laura05010/github-readme-stats)
+<br />
+
+## Contact me at:
+
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][mail] 
 
 ## Languages and Tools:
 
