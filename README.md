@@ -7,7 +7,6 @@
 - 🌱 I’m currently relearning: Swift
 - 💡 I’m looking to collaborate on any fun projects!!
 - 💬 I speak Spanish, French & Italian
-<br />
 
 ## Contact me at:
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
