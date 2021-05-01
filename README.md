@@ -1,12 +1,11 @@
 ![alt text](GitHubBanner.png)
-<br />
 
 ## A bit about me:
 
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][mail]
-
+[<img align="left"  width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][mail] 
+<br />
 - 😆 Pronouns: She/Her
 - 👩🏻‍💻 Major: Computer Science
 - 👩🏻‍💼 Minor: Business, Science and Entrepreneurship
