@@ -15,9 +15,6 @@
 [<img align="left"  width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][mail] 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/laura05010/github-readme-stats)
-<br />
-
 ## Languages and Tools:
 
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -38,6 +35,8 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/laura05010/github-readme-stats)
+<br />
 
 [website]: https://www.lauramadrid.ca/
 [linkedin]: https://www.linkedin.com/in/laurammadrid/
