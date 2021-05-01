@@ -1,11 +1,5 @@
 ![alt text](GitHubBanner.png)
-
 ## A bit about me:
-
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][mail] 
-<br />
 - 😆 Pronouns: She/Her
 - 👩🏻‍💻 Major: Computer Science
 - 👩🏻‍💼 Minor: Business, Science and Entrepreneurship
@@ -13,6 +7,13 @@
 - 🌱 I’m currently relearning: Swift
 - 💡 I’m looking to collaborate on any fun projects!!
 - 💬 I speak Spanish, French and Italian
+<br />
+
+## Feel free to contact me at:
+[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="22px" src="https://simpleicons.org/icons/minutemailer.svg" />][mail] 
+
 <br />
 
 ## Languages and Tools:
