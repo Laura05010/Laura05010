@@ -1,11 +1,11 @@
-## Hi there, I'm Laura 👩🏻‍💻
+<!-- ## Hi there, I'm Laura 👩🏻‍💻 -->
+![alt text](bannerGithub.png)
 
-
-- 😄 Pronouns: She/Her
-- 🔭 I’m currently working on:  My personal website, and getting back into my passion project!
-- 🌱 I’m currently learning: Java
+- 😆 Pronouns: She/Her
+- 🔭 I’m currently working on: Getting back into my passion project!
+- 🌱 I’m currently relearning: Swift
 - 💡 I’m looking to collaborate on any fun projects!!
-- 💬 I speak Spanish, French and Italian 
+- 💬 I speak Spanish, French and Italian
 
 
 ## Connect with me:
