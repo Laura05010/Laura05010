@@ -38,6 +38,8 @@
 <br />
 
 ## Coding Activity:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/laura05010/github-readme-stats)
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
