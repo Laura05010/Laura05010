@@ -35,7 +35,7 @@
 
 ##### 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&theme=blueberry)](https://github.com/laura05010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&title_color=421E59&border_color=421E59&text_color=190C29&icon_color=565FA1&bg_color=FEFDEF)](https://github.com/laura05010/github-readme-stats)
 <br />
 
 
