@@ -41,6 +41,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&title_color=FFFFFF&text_color=C7EDE6&bg_color=DEG,1E0B34,37174D,4A2068,6C348F)](https://github.com/laura05010/github-readme-stats)
 <br />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laura05010&repo=github-readme-stats)](https://github.com/laura05010/github-readme-stats)
 
 
 [website]: https://www.lauramadrid.ca/
