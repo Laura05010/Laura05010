@@ -35,7 +35,7 @@
 
 ##### 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&theme=jolly)](https://github.com/laura05010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&theme=nightowl)](https://github.com/laura05010/github-readme-stats)
 <br />
 
 
