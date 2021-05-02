@@ -35,7 +35,7 @@
 
 ##### 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,1E0B34,34174A,421E59,C7EDE6)](https://github.com/laura05010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&layout=compact&show_icons=true&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,1E0B34,37174D,4A2068,6C348F)](https://github.com/laura05010/github-readme-stats)
 <br />
 
 
