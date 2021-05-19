@@ -1,8 +1,7 @@
 ![my github banner](GitHubBanner.png)
 ## A bit about me:
 - 😆 Pronouns: She/Her
-- 👩🏻‍💻 Major: Computer Science
-- 👩🏻‍💼 Minor: Business, Science and Entrepreneurship
+- 👩🏻‍💻 Specialist in Computer Science (Equivalent to a Major but with more CS Courses 🦾)
 - 🔭 I’m currently working on: Getting back into my passion project!
 - 🌱 I’m currently relearning: Swift
 - 💡 I’m looking to collaborate on any fun projects!!
