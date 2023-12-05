@@ -1,8 +1,7 @@
 ![my github banner](GitHubBanner.png)
 ## A bit about me:
-- 😆 Pronouns: She/Her
 - 👩🏻‍💻 Specialist in Computer Science (Equivalent to a Major but with more CS Courses 🦾)
-- 🔭 I’m currently working on: Getting back into my passion project!
+- 🔭 I want to explore deepen my understanding in computer vision
 - 🌱 I’m currently relearning: Swift
 - 💡 I’m looking to collaborate on any fun projects!!
 - 💬 I speak Spanish, French & Italian
