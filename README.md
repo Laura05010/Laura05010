@@ -1,7 +1,7 @@
 ![my github banner](GitHubBanner.png)
 ## A bit about me:
 - 👩🏻‍💻 Specialist in Computer Science (Equivalent to a Major but with more CS Courses 🦾)
-- 🔭 I want to explore deepen my understanding in computer vision
+- 🔭 I want to deepen my understanding in computer vision
 - 🌱 I’m currently relearning: Swift
 - 💡 I’m looking to collaborate on any fun projects!!
 - 💬 I speak Spanish, French & Italian
