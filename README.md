@@ -1,10 +1,10 @@
 ![my github banner](GitHubBanner.png)
 ## A bit about me:
-- 👩🏻‍💻 Specialist in Computer Science (Equivalent to a Major but with more CS Courses 🦾)
-- 🔭 I want to deepen my understanding in computer vision
-- 🌱 I’m currently relearning: Swift
+- 👩🏻‍💻 Specialist in Computer Science (Equivalent to a Major but with more CS Courses 🦾) & I'm 1 course away from finishing a Math minor 
+- 🔭 I want want to become a Computer Vision Engineer!
+- 🌱 I’m currently learning: Computer Vision techniques and how it can be applied in various industries.
 - 💡 I’m looking to collaborate on any fun projects!!
-- 💬 I speak Spanish, French & Italian
+- 💬 I speak English, Spanish, French & a little bit of Italian
 
 ## Contact me at:
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
