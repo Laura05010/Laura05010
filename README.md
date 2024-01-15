@@ -1,7 +1,7 @@
 ![my github banner](GitHubBanner.png)
 ## A bit about me:
 - 👩🏻‍💻 Specialist in Computer Science (Equivalent to a Major with more CS Courses that allow students to focus in areas of the field 🦾)
-- 🤩 Areas of focus: Computer Vision, Robotics, Artifical Intelligence
+- 🤩 Areas of focus: Computer Vision, Robotics, Machine Learning
 - 🧮 1 course away from finishing a minor in Mathematics
 - 🔭 I want want to become a Computer Vision Engineer
 - 🌱 I’m currently learning: Computer Vision techniques and how it can be applied in various industries.
