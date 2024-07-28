@@ -40,6 +40,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&layout=compact&show_icons=true&title_color=FFFFFF&text_color=C7EDE6&bg_color=DEG,1E0B34,37174D,4A2068,6C348F)](https://github.com/laura05010/github-readme-stats)
 <br />
 
-[website]: [https://www.lauramadrid.ca/](https://www.lauramadrid.ca/)
-[linkedin]: [https://www.linkedin.com/in/laura-madrid/](https://www.linkedin.com/in/laura-madrid/)
-[mail]: [madrid.laura@outlook.com](mailto:madrid.laura@outlook.com)
+[website]:https://www.lauramadrid.ca/](https://www.lauramadrid.ca/
+[linkedin]:https://www.linkedin.com/in/laura-madrid/
+[mail]:mailto:madrid.laura@outlook.com
