@@ -41,5 +41,5 @@
 <br />
 
 [website]: https://www.lauramadrid.ca/
-[linkedin]: https://www.linkedin.com/in/laurammadrid/
-[mail]: mailto:laura.maldonado@mail.utoronto.ca
+[linkedin]: https://www.linkedin.com/in/laura-madrid/
+[mail]: mailto:madrid.laura@outlook.com
