@@ -13,7 +13,7 @@
   </a> -->
 </p>
 
-### 👩🏻‍💻 A bit about me:
+### A bit about me:
 
 - 🎓 Specialist in Computer Science from the University of Toronto, applying to grad school to start September 2025
 - 🤖 Focus areas: Computer Vision, Machine Learning, Robotics, HCI
@@ -24,7 +24,7 @@
 
 ---
 
-### 🛠 **Languages and Tools:**
+### **Languages and Tools:**
 
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -50,8 +50,8 @@
 
 ---
 
-### 🌟 **Top Languages:**
+### **Top Languages:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=#38A69B&text_color=FFFFFF&bg_color=DEG,222A59,6C348F,55398A,AB67CE)](https://github.com/laura05010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=#38A69B&text_color=FFFFFF&bg_color=DEG,222A59,6C348F,55398A)](https://github.com/laura05010/github-readme-stats)
 
 ---
