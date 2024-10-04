@@ -2,7 +2,7 @@
 <h4 align="center">Computer Science Specialist focused on Computer Vision, Machine Learning, and Robotics. Passionate about applying AI for good, especially in Human-Computer Interaction (HCI) and healthcare.</h4>
 <p align="center">
   <a href="https://www.lauramadrid.ca/">
-    <img src="https://img.shields.io/badge/Website-Visit%20Here-%234CAF50?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-Visit%20Here-%234CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/laura-madrid/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -11,17 +11,15 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
   </a>
 </p>
----
 
 ### 👩🏻‍💻 A bit about me:
 - 🎓 Specialist in Computer Science from the University of Toronto, applying to grad school to start september 2025
 - 🤖 Focus areas: Computer Vision, Machine Learning, Robotics, HCI
 - 🚀 Aspiring to become a Computer Vision Wizard
 - 🤝 Looking to collaborate on meaningful projects that can make a positive impact
-- 💬 I speak: English, Spanish, French & I took 2 years of Italian in High School 
+- 💬 I speak: English, Spanish, French & I took 2 years of Italian in High School
 - 📄 Know about my experiences [https://lauramadrid.ca/assets/pdf/resume.pdf](https://lauramadrid.ca/assets/pdf/resume.pdf)
 
----
 
 ### 🛠 **Languages and Tools:**
 <p align="left"> 
@@ -47,9 +45,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p>
 
----
 
 ### 🌟 **Top Languages:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&layout=compact&show_icons=true&title_color=FFFFFF&text_color=C7EDE6&bg_color=DEG,1E0B34,37174D,4A2068,6C348F)](https://github.com/laura05010/github-readme-stats)
 
----
