@@ -19,8 +19,8 @@
 - 🤖 Focus areas: Computer Vision, Machine Learning, Robotics, HCI
 - 🚀 Aspiring to become a Computer Vision Wizard
 - 🤝 Looking to collaborate on meaningful projects that can make a positive impact
-- 💬 I speak: English, Spanish, French & I took 2 years of Italian in High School
-- 📄 Know about my experiences [https://lauramadrid.ca/assets/pdf/resume.pdf](https://lauramadrid.ca/assets/pdf/resume.pdf)
+- 💬 I speak: English (Fluent), Spanish (Native), French (Fluent), and Italian (basic comprehension).
+- 💡 Know about my experiences [https://lauramadrid.ca/assets/pdf/resume.pdf](https://lauramadrid.ca/assets/pdf/resume.pdf)
 
 ---
 
@@ -52,6 +52,6 @@
 
 ### 🌟 **Top Languages:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=FFFFFF&text_color=C7EDE6&bg_color=DEG,1E0B34,37174D,4A2068,6C348F)](https://github.com/laura05010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=F2E530&text_color=FFFFFF&bg_color=DEG,6C348F,55398A,202359,AB67CE)](https://github.com/laura05010/github-readme-stats)
 
 ---
