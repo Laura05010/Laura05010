@@ -14,11 +14,9 @@
 ---
 
 ### 🌍 **Contact me:**
-<p align="left">
-  <a href="https://www.lauramadrid.ca/" target="_blank" class="button website-button">Website</a>
-  <a href="https://www.linkedin.com/in/laura-madrid/" target="_blank" class="button linkedin-button">LinkedIn</a>
-  <a href="mailto:madrid.laura@outlook.com" class="button email-button">Email</a>
-</p>
+[![Website](https://img.shields.io/badge/Website-%23333.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lauramadrid.ca/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-madrid/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madrid.laura@outlook.com)
 
 ### 🛠 **Languages and Tools:**
 <p align="left"> 
