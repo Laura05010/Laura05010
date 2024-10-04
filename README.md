@@ -1,18 +1,23 @@
 ## ![Welcome Banner](welcomeBanner.png)
 <h4 align="center">Computer Science Specialist focused on Computer Vision, Machine Learning, and Robotics. Passionate about applying AI for good, especially in Human-Computer Interaction (HCI) and healthcare.</h4>
 <p align="center">
-  [![Website](https://img.shields.io/badge/Website-Visit%20Here-%234CAF50?style=for-the-badge&logo=globe&logoColor=white)](https://www.lauramadrid.ca/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-madrid/)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:madrid.laura@outlook.com)
+  <a href="https://www.lauramadrid.ca/">
+    <img src="https://img.shields.io/badge/Website-Visit%20Here-%234CAF50?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/laura-madrid/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:madrid.laura@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
 ---
 
 ### 👩🏻‍💻 A bit about me:
 - 🎓 Specialist in Computer Science from the University of Toronto, applying to grad school to start september 2025
 - 🤖 Focus areas: Computer Vision, Machine Learning, Robotics, HCI
 - 🚀 Aspiring to become a Computer Vision Wizard
-- 🤝 Looking to collaborate on meaningful projects that can make a positive impact.
+- 🤝 Looking to collaborate on meaningful projects that can make a positive impact
 - 💬 I speak: English, Spanish, French & I took 2 years of Italian in High School 
 - 📄 Know about my experiences [https://lauramadrid.ca/assets/pdf/resume.pdf](https://lauramadrid.ca/assets/pdf/resume.pdf)
 
