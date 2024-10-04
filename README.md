@@ -6,14 +6,11 @@
     <img src="https://img.shields.io/badge/Website-%234CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/laura-madrid/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%38A69B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://lauramadrid.ca/assets/pdf/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-%23000000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-%23000000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
   </a>
-  <!-- <a href="mailto:madrid.laura@outlook.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
-  </a> -->
 </p>
 
 ### A bit about me:
