@@ -53,7 +53,5 @@
 ---
 
 <p align="center">
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/Checkout%20My%20Projects-Below-%2338A69B?style=for-the-badge&logo=project-diagram&logoColor=white" alt="Checkout My Projects"/>
-  </a>
+  <img src="https://img.shields.io/badge/Checkout%20My%20Projects-Below-%23202359?style=for-the-badge&logo=project-diagram&logoColor=white" alt="Checkout My Projects"/>
 </p>
