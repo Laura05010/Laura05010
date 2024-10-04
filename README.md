@@ -3,13 +3,13 @@
 <h4 align="center">Computer Science Specialist focused on Computer Vision, Machine Learning, and Robotics. Passionate about applying AI for good, especially in Human-Computer Interaction (HCI) and healthcare.</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/laura-madrid/">
-    <img src="https://img.shields.io/badge/LinkedIn-%2238A69B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.lauramadrid.ca/">
-    <img src="https://img.shields.io/badge/Website-%2222A59?style=for-the-badge&logo=web&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-%23222A59?style=for-the-badge&logo=web&logoColor=white" alt="Website"/>
   </a>
   <a href="https://lauramadrid.ca/assets/pdf/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-%22F263C0?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-%232F263C0?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
