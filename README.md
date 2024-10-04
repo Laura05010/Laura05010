@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/laura-madrid/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://lauramadrid.ca/assets/pdf/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-%23000000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
+  </a>
   <!-- <a href="mailto:madrid.laura@outlook.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
   </a> -->
@@ -20,7 +23,7 @@
 - 🚀 Aspiring to become a Computer Vision Wizard
 - 🤝 Looking to collaborate on meaningful projects that can make a positive impact
 - 💬 I speak: English (Fluent), Spanish (Native), French (Fluent), and Italian (basic comprehension).
-- 💡 Know about my experiences [https://lauramadrid.ca/assets/pdf/resume.pdf](https://lauramadrid.ca/assets/pdf/resume.pdf)
+- 💡 Experience: [https://lauramadrid.ca/assets/pdf/resume.pdf](https://lauramadrid.ca/assets/pdf/resume.pdf)
 
 ---
 
