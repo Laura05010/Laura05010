@@ -50,6 +50,7 @@
 | </p>                                                                                                            | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=37a6a6&text_color=ffffff&bg_color=202359)](https://github.com/laura05010/github-readme-stats)  |
 
 
+
 <h4 align="center">Feel free to check out my projects pinned below.</h4>
 <p align="center">
   <img src="https://media.giphy.com/media/z835RsRqQHOlC4rsBr/giphy.gif" width="300" alt="Cookie Monster looking down and pointing"/>
