@@ -52,6 +52,8 @@
 
 ### **Top Languages:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=38A69B&text_color=FFFFFF&bg_color=DEG,222A59,6C348F,55398A)](https://github.com/laura05010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=F263C0&text_color=FFFFFF&bg_color=DEG,222A59,6C348F)](https://github.com/laura05010/github-readme-stats)
 
 ---
+
+<h4 align="center"> ⬇️ --- Checkout my projects below --- ⬇️ </h4>
