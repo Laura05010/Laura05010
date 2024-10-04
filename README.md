@@ -51,7 +51,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=37a6a6&text_color=ffffff&bg_color=202359)](https://github.com/laura05010/github-readme-stats)
 
 ---
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Checkout%20My%20Projects-Below-%23202359?style=for-the-badge&logoColor=white" alt="Checkout My Projects"/>
+  <img src="https://img.shields.io/badge/Checkout%20My%20Projects-Below-%2338A69B?style=flat&logo=project-diagram&logoColor=white" alt="Checkout My Projects"/>
 </p>
