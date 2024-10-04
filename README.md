@@ -2,14 +2,14 @@
 
 <h4 align="center">Computer Science Specialist focused on Computer Vision, Machine Learning, and Robotics. Passionate about applying AI for good, especially in Human-Computer Interaction (HCI) and healthcare.</h4>
 <p align="center">
-  <a href="https://www.lauramadrid.ca/">
-    <img src="https://img.shields.io/badge/Website-%234CAF50?style=for-the-badge&logo=web&logoColor=white" alt="Website"/>
-  </a>
   <a href="https://www.linkedin.com/in/laura-madrid/">
-    <img src="https://img.shields.io/badge/LinkedIn-%38A69B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%238A69B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.lauramadrid.ca/">
+    <img src="https://img.shields.io/badge/Website-%2222A59?style=for-the-badge&logo=web&logoColor=white" alt="Website"/>
   </a>
   <a href="https://lauramadrid.ca/assets/pdf/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-%23000000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-%2F263C0?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
@@ -18,9 +18,9 @@
 - 🎓 Specialist in Computer Science from the University of Toronto, applying to grad school to start September 2025
 - 🤖 Focus areas: Computer Vision, Machine Learning, Robotics, HCI
 - 🚀 Aspiring to become a Computer Vision Wizard
-- 🤝 Looking to collaborate on meaningful projects that can make a positive impact
+- 💡 Looking to collaborate on meaningful projects that can make a positive impact
 - 💬 I speak: English (Fluent), Spanish (Native), French (Fluent), and Italian (basic comprehension).
-- 💡 Experience: [https://lauramadrid.ca/assets/pdf/resume.pdf](https://lauramadrid.ca/assets/pdf/resume.pdf)
+- 🤝 Feel free to email me at **madrid.laura@outlook.com**
 
 ---
 
@@ -52,7 +52,7 @@
 
 ### **Top Languages:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=F263C0&text_color=FFFFFF&bg_color=222A59)](https://github.com/laura05010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=38A69B&text_color=FFFFFF&bg_color=222A59)](https://github.com/laura05010/github-readme-stats)
 
 ---
 
