@@ -1,6 +1,6 @@
 ## ![Welcome Banner](welcomeBanner.png)
 
-<h2 align="center">Computer Science Specialist focused on Computer Vision, Machine Learning, and Robotics. Passionate about applying AI for good, especially in Human-Computer Interaction (HCI) and healthcare.</h2>
+<h3 align="center">Computer Science Specialist focused on Computer Vision, Machine Learning, and Robotics. Passionate about applying AI for good, especially in Human-Computer Interaction (HCI) and healthcare.</h3>
 <p align="center">
   <a href="https://www.lauramadrid.ca/">
     <img src="https://img.shields.io/badge/Website-%2337a6a6?style=for-the-badge&logoColor=white" alt="Website"/>
@@ -30,7 +30,7 @@
 
 
 ---
-<h2 align="center">Feel free to check out my projects pinned below.</h2>
+<h3 align="center">Feel free to check out my projects pinned below.</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/z835RsRqQHOlC4rsBr/giphy.gif" width="300" alt="Cookie Monster looking down and pointing"/>
 </p>
