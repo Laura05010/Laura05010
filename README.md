@@ -48,12 +48,12 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p>
 
----
-
-### **Top Languages:**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=37a6a6&text_color=ff66c4&bg_color=202359)](https://github.com/laura05010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&show_icons=true&title_color=37a6a6&text_color=ffffff&bg_color=202359)](https://github.com/laura05010/github-readme-stats)
 
 ---
 
-<h3 align="center"> ⬇️⬇️⬇️⬇️⬇️ Checkout my projects below ⬇️⬇️⬇️⬇️⬇️ </h3>
+<p align="center">
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/Checkout%20My%20Projects-Below-%2338A69B?style=for-the-badge&logo=project-diagram&logoColor=white" alt="Checkout My Projects"/>
+  </a>
+</p>
