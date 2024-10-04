@@ -15,15 +15,9 @@
 
 ### 🌍 **Contact me:**
 <p align="left">
-  <a href="https://www.lauramadrid.ca/" target="_blank" style="text-decoration: none;">
-    <span style="background-color: #4CAF50; color: white; padding: 10px 20px; margin: 10px; border-radius: 5px; display: inline-block;">Website</span>
-  </a>
-  <a href="https://www.linkedin.com/in/laura-madrid/" target="_blank" style="text-decoration: none;">
-    <span style="background-color: #0077B5; color: white; padding: 10px 20px; margin: 10px; border-radius: 5px; display: inline-block;">LinkedIn</span>
-  </a>
-  <a href="mailto:madrid.laura@outlook.com" style="text-decoration: none;">
-    <span style="background-color: #D14836; color: white; padding: 10px 20px; margin: 10px; border-radius: 5px; display: inline-block;">Email</span>
-  </a>
+  <a href="https://www.lauramadrid.ca/" target="_blank" class="button website-button">Website</a>
+  <a href="https://www.linkedin.com/in/laura-madrid/" target="_blank" class="button linkedin-button">LinkedIn</a>
+  <a href="mailto:madrid.laura@outlook.com" class="button email-button">Email</a>
 </p>
 
 ### 🛠 **Languages and Tools:**
