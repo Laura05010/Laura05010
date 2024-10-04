@@ -1,5 +1,10 @@
 ## ![Welcome Banner](welcomeBanner.png)
 <h4 align="center">Computer Science Specialist focused on Computer Vision, Machine Learning, and Robotics. Passionate about applying AI for good, especially in Human-Computer Interaction (HCI) and healthcare.</h4>
+<p align="center">
+  [![Website](https://img.shields.io/badge/Website-Visit%20Here-%234CAF50?style=for-the-badge&logo=globe&logoColor=white)](https://www.lauramadrid.ca/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-madrid/)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:madrid.laura@outlook.com)
+</p>
 
 ---
 
@@ -12,11 +17,6 @@
 - 📄 Know about my experiences [https://lauramadrid.ca/assets/pdf/resume.pdf](https://lauramadrid.ca/assets/pdf/resume.pdf)
 
 ---
-
-### 🌍 **Contact me:**
-[![Website](https://img.shields.io/badge/Website-%23333.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lauramadrid.ca/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-madrid/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madrid.laura@outlook.com)
 
 ### 🛠 **Languages and Tools:**
 <p align="left"> 
