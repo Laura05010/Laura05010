@@ -20,7 +20,7 @@
 - 💬 I speak: English, Spanish, French & I took 2 years of Italian in High School
 - 📄 Know about my experiences [https://lauramadrid.ca/assets/pdf/resume.pdf](https://lauramadrid.ca/assets/pdf/resume.pdf)
 
-
+---
 ### 🛠 **Languages and Tools:**
 <p align="left"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -45,7 +45,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p>
 
-
+---
 ### 🌟 **Top Languages:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laura05010&count_private=true&include_all_commits=true&layout=compact&show_icons=true&title_color=FFFFFF&text_color=C7EDE6&bg_color=DEG,1E0B34,37174D,4A2068,6C348F)](https://github.com/laura05010/github-readme-stats)
 
