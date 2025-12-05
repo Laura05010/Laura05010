@@ -1,6 +1,8 @@
 ## ![Welcome Banner](welcomeBanner.png)
 
-<h3 align="center">Computer Science Specialist focused on Computer Vision, Machine Learning, and Robotics. Passionate about applying AI for good, especially in Human-Computer Interaction (HCI) and healthcare.</h3>
+<h3 align="center">
+Computer Science graduate and current Systems Design Engineering Master’s student specializing in Computer Vision, Machine Learning, and Biomechanics. Focused on building vision-based systems that support healthcare, human movement understanding, and real-world patient needs.
+</h3>
 <p align="center">
   <a href="https://www.lauramadrid.ca/">
     <img src="https://img.shields.io/badge/Website-%2337a6a6?style=for-the-badge&logoColor=white" alt="Website"/>
@@ -15,12 +17,13 @@
 
 ### A bit about me:
 
-- 🎓 Specialist in Computer Science from the University of Toronto, applying to grad school to start September 2025
-- 🤖 Focus areas: Computer Vision, Machine Learning, Robotics, HCI
-- 🚀 Aspiring to become a Computer Vision Wizard
+- 🎓 Currently a Systems Design Engineering Master's student at the University of Waterloo
+- 🎓 Specialist in Computer Science from the University of Toronto
+- 🤖 Focus areas: Computer Vision, Machine Learning, Biomechanics
+- 🚀 Aspiring to become a Computer Vision Wizard that creates systems to help improve performance
 - 💡 Looking to collaborate on meaningful projects that can make a positive impact
 - 💬 I speak: English (Fluent), Spanish (Native), French (Fluent), and Italian (basic comprehension).
-- 🤝 Feel free to email me at **madrid.laura@outlook.com**
+- 🤝 Feel free to email me at **laura.madrid@uwaterloo.ca**
 
 ---
 
