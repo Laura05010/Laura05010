@@ -20,7 +20,7 @@ Computer Science graduate and current Systems Design Engineering Master’s stud
 - 🎓 Currently a Systems Design Engineering Master's student at the University of Waterloo
 - 🎓 Specialist in Computer Science from the University of Toronto
 - 🤖 Focus areas: Computer Vision, Machine Learning, Biomechanics
-- 🚀 Aspiring to become a Computer Vision Wizard that creates systems to help improve performance
+- 🚀 Aspiring to become a Computer Vision Wizard that creates systems to analyze and improve human movement performance in real-world settings
 - 💡 Looking to collaborate on meaningful projects that can make a positive impact
 - 💬 I speak: English (Fluent), Spanish (Native), French (Fluent), and Italian (basic comprehension).
 - 🤝 Feel free to email me at **laura.madrid@uwaterloo.ca**
